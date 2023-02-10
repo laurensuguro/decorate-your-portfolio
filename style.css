@@ -5,6 +5,10 @@
   margin-top: 0px;
 }
 
+.nav-bar {
+  display: inline-block;
+}
+
 .title {
   text-align: center;
   color: lightcoral;
